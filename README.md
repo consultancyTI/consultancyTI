@@ -3,7 +3,7 @@
 
 ---
 
-##🌎 Nuestra Identidad
+## 🌎 Nuestra Identidad
 - 🤝 Empresa confiable, comprometida con los intereses de nuestros clientes.  
 - 🌍 Multicultural: talento en toda Latinoamérica.  
 - 💡 Innovadora: en constante evolución hacia el ámbito digital.
